@@ -9,7 +9,6 @@ int main()
     cout << "Enter the number of test : ";
     cin >> t;
 
-    int arr[t] = {};
     for (int a0 = 0; a0 < t; a0++)
     {
         int flag, answer, number, count, n;
